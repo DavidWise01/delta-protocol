@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1080
+slug  : delta-protocol
+seal  : 155b1be34913c3f4228fd3a923faccb86e12e6091823b624157b963a457f0090
+prev  : 70b0281f5c0ba5a8824dd3b64a4095b5b47d036701ed48e23b6ba567f76985bd
+link  : 6f21ae879a063a36ecf1134f9cee7053470fda202e7f1d81c1d5d578cea7f184
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
